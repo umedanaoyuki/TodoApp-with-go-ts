@@ -1,7 +1,8 @@
+
 function App() {
 
   return (
-      <p>テストです</p>    
+    <>テスト</>
   )
 }
 
